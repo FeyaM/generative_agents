@@ -1,0 +1,18 @@
+{
+    "llama3_8B": {
+        "model": "llama3",
+        "url": "http://203.135.105.60:9900/api/generate",
+        "parameters": {
+            "format": "json",
+            "options":{}
+        }
+    },
+    "llama3_70B": {
+        "": ""
+    },
+    "nomic-embed-text": {
+        "model": "nomic-embed-text",
+        "url": "http://203.135.105.60:9900/api/embeddings",
+        "parameters": {}
+    }
+}
